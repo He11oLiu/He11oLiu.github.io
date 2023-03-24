@@ -1,4 +1,7 @@
 ---
+layout: home
+title: About me 
+---
 
 ## About Me
 
@@ -11,5 +14,4 @@ I am a fourth-year Ph.D. student in Software Engineering at Shanghai Jiaotong Un
 - [**ICDCS '21**] Efficiently Recovering Stateful System Components of Multi-server Microkernels. Wentai Li, Jinyu Gu, Nian Liu, Binyu Zang
 - [**PPoPP '22**] Asymmetry-aware Scalable Locking. Nian Liu, Jinyu Gu, Dahai Tang, Kenli Li, Binyu Zang, Haibo Chen
 
-layout: home
----
+
