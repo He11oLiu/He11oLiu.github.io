@@ -3,10 +3,16 @@ layout: home
 title: Nian Liu
 ---
 
-I am currently a researcher at Huawei OS kernel lab. I received my Ph.D. degree (advised by Prof. Binyu Zang and Haibo Chen) in Computer Science from Shanghai Jiaotong University (SJTU) in 2023. My major research interests include micro-kernel and multi-core synchronization.
+<div style="overflow: auto;">
+
+<div style="float: right; margin-left: 10px;">
+<img src="assets/img/home.jpg" width="200"/>
+</div> 
+<p>I am currently a researcher at Huawei OS kernel lab. I received my Ph.D. degree (advised by Prof. Binyu Zang and Haibo Chen) in Computer Science from Shanghai Jiaotong University (SJTU) in 2023. My major research interests include micro-kernel and multi-core synchronization.
+</p>
+</div>
 
 Email: [nian.liu@huawei.com](nian.liu@huawei.com), [he11oliu830@gmail.com](he11oliu830@gmail.com)
-
 
 ## Publications
 
