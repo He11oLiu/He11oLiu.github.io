@@ -17,6 +17,7 @@ My major research interests include microkernels, energy-aware scheduling, scala
 
 ## Publications
 
+- [**IEEE TPDS**] HTLL: Latency-aware Scalable Blocking Mutex. Ziqu Yu, Jinyu Gu, Zijian Wu, **Nian Liu**, Jian Guo.
 - [**OSDI '24**] Microkernel Goes General: Performance and Compatibility in the HongMeng Production Microkernel. Haibo Chen, Xie Miao, Ning Jia, Nan Wang, Yu Li, **Nian Liu**, Yutao Liu, Fei Wang, Qiang Huang, Kun Li, Hongyang Yang, Hui Wang, Jie Yin, Yu Peng, and Fengwei Xu. [PDF](https://www.usenix.org/system/files/osdi24-chen-haibo.pdf), [Slides](https://www.usenix.org/system/files/osdi24_slides-chen-haibo.pdf), [Video](https://www.bilibili.com/video/BV1ME4teUEMP)
 - [**PPoPP '22**] Asymmetry-aware Scalable Locking. **Nian Liu**, Jinyu Gu, Dahai Tang, Kenli Li, Binyu Zang, Haibo Chen. [PDF](https://ipads.se.sjtu.edu.cn/_media/publications/libasl-final.pdf), [Video](https://www.bilibili.com/video/BV14S4y1K7F8)
 - [**ICDCS '21**] Efficiently Recovering Stateful System Components of Multi-server Microkernels. Wentai Li, Jinyu Gu, **Nian Liu**, Binyu Zang. [PDF](https://ieeexplore.ieee.org/document/9546453)
